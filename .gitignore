@@ -1,0 +1,8 @@
+TestConsoleApp1/bin
+TestConsoleApp1/obj
+ConsoleApp1_Tests/bin
+ConsoleApp1_Tests/obj
+*.user
+*/bin/
+*/obj/
+.DS_Store
