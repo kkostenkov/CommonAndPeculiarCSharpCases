@@ -6,3 +6,5 @@ ConsoleApp1_Tests/obj
 */bin/
 */obj/
 .DS_Store
+
+/.idea/
